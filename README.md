@@ -1,7 +1,7 @@
 # vcrpy-demo
 Demonstration of the VCR.py library
 
-This repo contains the example files use in the blog post [Testing in Python with VCR.py][testing-in-python-with-vcrpy].
+This repo contains the example files used in the blog post [Testing in Python with VCR.py][testing-in-python-with-vcrpy].
 
 [testing-in-python-with-vcrpy]:https://jakesen.github.io/python/testing/2017/03/26/testing-in-python-with-vcrpy.html
 

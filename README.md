@@ -3,7 +3,7 @@ Demonstration of the VCR.py library
 
 This repo contains the example files used in the blog post [Testing in Python with VCR.py][testing-in-python-with-vcrpy].
 
-[testing-in-python-with-vcrpy]:https://jakesen.github.io/python/testing/2017/03/26/testing-in-python-with-vcrpy.html
+[testing-in-python-with-vcrpy]:https://jakesen.github.io/python/testing/2017/03/27/testing-in-python-with-vcrpy.html
 
 You can setup and run the demo test like this:
 
